@@ -3,7 +3,7 @@
   "sound_definitions": {
     "record.precipice": {
       "category": "record",
-      "sounds": [ "sounds/music/game/records/precipice" ]
+      "sounds": [ "sounds/music/game/records/blocks" ]
     }
   }
 }
